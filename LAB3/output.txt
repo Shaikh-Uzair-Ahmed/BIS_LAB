@@ -1,0 +1,1 @@
+Best path: [0, 2, 3, 4, 1] with length: 9.00
