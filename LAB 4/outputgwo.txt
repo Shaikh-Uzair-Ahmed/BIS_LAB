@@ -1,0 +1,6 @@
+Enter number of wolves: 5
+Enter number of dimensions: 4
+Enter max iterations: 10
+
+Best Position: [ 2.16579979  2.34635848 -1.00125355  0.49522175]
+Best Score: 11.443840087181393
