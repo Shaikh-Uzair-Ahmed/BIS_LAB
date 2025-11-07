@@ -1,0 +1,5 @@
+=== Parallel Cellular Algorithm Results ===
+Total iterations performed: 100
+Best x value found: 0.317779
+Corresponding fitness (minimum f(x)): 2.829867
+Algorithm converged toward x ≈ 2, where f(x) = 0 (expected optimum).
